@@ -1,4 +1,4 @@
-[2025-11-29 10:39:41] User: yeah i just saw man who is fainted on the road and he's running on another the road he's not giving any response
+[2025-11-29 10:39:41] User: yeah i just saw man who is fainted on the road and he's not giving any response
 [2025-11-29 10:39:49] AI: State the exact address, including city.
 [2025-11-29 10:41:32] User: jk college road guntur
 [2025-11-29 10:41:36] AI: What type of emergency is this?
@@ -7,7 +7,7 @@
 [2025-11-29 10:41:59] User: oh it's prameth
 [2025-11-29 10:42:04] AI: Approximate age of the patient?
 [2025-11-29 10:42:12] User: forty five
-[2025-11-29 10:42:15] AI: Approximate age of the patient? Dispatching units now.
+[2025-11-29 10:42:15] AI:  Dispatching units now.
 [2025-11-29 10:45:14] User: near new delhi parliament
 [2025-11-29 10:45:18] AI: State the exact address, including city.
 [2025-11-29 10:45:27] User: the parliament new delhi
