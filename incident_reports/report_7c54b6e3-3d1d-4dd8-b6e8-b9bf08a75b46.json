@@ -1,0 +1,10 @@
+{
+    "caller_name": "pameth",
+    "emergency_type": "medical",
+    "location": "thane, maharastra",
+    "number_of_people_involved": 1,
+    "age_group": "child",
+    "immediate_dangers": "Unconscious",
+    "medical_conditions": "N/A",
+    "description": "boy fainted"
+}

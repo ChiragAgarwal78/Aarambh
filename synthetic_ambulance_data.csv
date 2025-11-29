@@ -1,0 +1,251 @@
+Ambulance_ID,Ambulance_Name,Status,Location,Latitude,Longitude,City
+001,Rapid 001,In Transit,"Santacruz West, Mumbai",19.0836,72.8323,Mumbai
+002,Rescue 002,In Transit,"Santacruz West, Mumbai",19.0803,72.8253,Mumbai
+003,Rapid 003,In Transit,"Bandra, Mumbai",19.0519,72.8262,Mumbai
+004,Medi 004,In Transit,"Juhu, Mumbai",19.0942,72.8262,Mumbai
+005,Swift 005,Available,"Worli, Mumbai",19.0064,72.8175,Mumbai
+006,Care 006,In Transit,"Andheri, Mumbai",19.1181,72.8455,Mumbai
+007,Rapid 007,In Transit,"Juhu, Mumbai",19.0932,72.832,Mumbai
+008,Apex 008,In Transit,"Versova, Mumbai",19.1363,72.7969,Mumbai
+009,Medi 009,In Transit,"Pali Hill, Mumbai",19.0554,72.8227,Mumbai
+010,Swift 010,In Transit,"Pali Hill, Mumbai",19.0637,72.8277,Mumbai
+011,Apex 011,Available,"Juhu, Mumbai",19.0979,72.8318,Mumbai
+012,Rescue 012,Available,"Worli, Mumbai",19.01,72.82,Mumbai
+013,Lifeline 013,Available,"Bandra, Mumbai",19.0586,72.8349,Mumbai
+014,Care 014,Available,"Tardeo, Mumbai",18.9671,72.8163,Mumbai
+015,Lifeline 015,In Transit,"Colaba, Mumbai",18.9023,72.8133,Mumbai
+016,Rapid 016,Available,"Juhu, Mumbai",19.0984,72.8237,Mumbai
+017,Rescue 017,Available,"Juhu, Mumbai",19.1002,72.8279,Mumbai
+018,Swift 018,Available,"Versova, Mumbai",19.1328,72.7918,Mumbai
+019,Swift 019,Available,"Malabar Hill, Mumbai",18.9478,72.8027,Mumbai
+020,Swift 020,In Transit,"Andheri, Mumbai",19.1165,72.8521,Mumbai
+021,Care 021,Available,"Worli, Mumbai",19.0063,72.8227,Mumbai
+022,Care 022,Available,"Bandra, Mumbai",19.0568,72.8275,Mumbai
+023,Medi 023,Available,"Pali Hill, Mumbai",19.0566,72.8231,Mumbai
+024,Swift 024,In Transit,"Powai, Mumbai",19.1164,72.9176,Mumbai
+025,Care 025,In Transit,"Santacruz West, Mumbai",19.0814,72.8325,Mumbai
+026,Lifeline 026,In Transit,"Bandra, Mumbai",19.0508,72.833,Mumbai
+027,Rescue 027,Available,"Colaba, Mumbai",18.906,72.8106,Mumbai
+028,Apex 028,In Transit,"Colaba, Mumbai",18.9001,72.8121,Mumbai
+029,Rescue 029,In Transit,"Cuffe Parade, Mumbai",18.9059,72.8062,Mumbai
+030,Apex 030,Available,"Cuffe Parade, Mumbai",18.9059,72.8142,Mumbai
+031,Rescue 031,In Transit,"Santacruz West, Mumbai",19.0876,72.8261,Mumbai
+032,Lifeline 032,Available,"Versova, Mumbai",19.1387,72.796,Mumbai
+033,Lifeline 033,In Transit,"Worli, Mumbai",19.0046,72.8186,Mumbai
+034,Care 034,In Transit,"Malabar Hill, Mumbai",18.9509,72.8093,Mumbai
+035,Care 035,In Transit,"Cuffe Parade, Mumbai",18.9058,72.8106,Mumbai
+036,Rescue 036,In Transit,"Pali Hill, Mumbai",19.0636,72.8278,Mumbai
+037,Medi 037,In Transit,"Santacruz West, Mumbai",19.0873,72.8264,Mumbai
+038,Rescue 038,Available,"Santacruz West, Mumbai",19.0821,72.8274,Mumbai
+039,Apex 039,Available,"Cuffe Parade, Mumbai",18.9015,72.8148,Mumbai
+040,Lifeline 040,In Transit,"Tardeo, Mumbai",18.971,72.8117,Mumbai
+041,Swift 041,Available,"Worli, Mumbai",19.0085,72.8174,Mumbai
+042,Apex 042,In Transit,"Powai, Mumbai",19.118,72.9125,Mumbai
+043,Care 043,Available,"Pali Hill, Mumbai",19.0648,72.8294,Mumbai
+044,Medi 044,Available,"Malabar Hill, Mumbai",18.9534,72.8033,Mumbai
+045,Lifeline 045,Available,"Powai, Mumbai",19.1133,72.9113,Mumbai
+046,Medi 046,In Transit,"Colaba, Mumbai",18.9031,72.81,Mumbai
+047,Medi 047,Available,"Colaba, Mumbai",18.9046,72.8089,Mumbai
+048,Medi 048,In Transit,"Andheri, Mumbai",19.1238,72.8481,Mumbai
+049,Rescue 049,Available,"Colaba, Mumbai",18.9032,72.811,Mumbai
+050,Lifeline 050,Available,"Colaba, Mumbai",18.8998,72.8172,Mumbai
+051,Rapid 051,In Transit,"Jor Bagh, Delhi",28.5907,77.2195,Delhi
+052,Apex 052,In Transit,"Saket, Delhi",28.5225,77.2122,Delhi
+053,Apex 053,In Transit,"Golf Links, Delhi",28.6018,77.2264,Delhi
+054,Medi 054,Available,"Vasant Kunj, Delhi",28.5271,77.1478,Delhi
+055,Lifeline 055,Available,"Golf Links, Delhi",28.6004,77.2265,Delhi
+056,Lifeline 056,Available,"Sunder Nagar, Delhi",28.6032,77.2261,Delhi
+057,Lifeline 057,In Transit,"Lutyens' Bungalow Zone, Delhi",28.6171,77.2024,Delhi
+058,Swift 058,In Transit,"Lutyens' Bungalow Zone, Delhi",28.6154,77.2028,Delhi
+059,Rapid 059,Available,"Shanti Niketan, Delhi",28.5804,77.1685,Delhi
+060,Rescue 060,Available,"Panchsheel Park, Delhi",28.5492,77.2195,Delhi
+061,Care 061,In Transit,"Saket, Delhi",28.5223,77.2164,Delhi
+062,Rapid 062,In Transit,"Shanti Niketan, Delhi",28.5782,77.1703,Delhi
+063,Medi 063,Available,"Saket, Delhi",28.5255,77.2131,Delhi
+064,Medi 064,In Transit,"Golf Links, Delhi",28.5998,77.2294,Delhi
+065,Swift 065,Available,"Lutyens' Bungalow Zone, Delhi",28.6111,77.1961,Delhi
+066,Apex 066,Available,"Defence Colony, Delhi",28.5724,77.2387,Delhi
+067,Rescue 067,Available,"Saket, Delhi",28.5265,77.2099,Delhi
+068,Swift 068,In Transit,"Sunder Nagar, Delhi",28.6016,77.2285,Delhi
+069,Apex 069,In Transit,"Lutyens' Bungalow Zone, Delhi",28.6099,77.1978,Delhi
+070,Medi 070,In Transit,"Sunder Nagar, Delhi",28.6034,77.2253,Delhi
+071,Swift 071,In Transit,"Sunder Nagar, Delhi",28.5988,77.229,Delhi
+072,Medi 072,In Transit,"Greater Kailash, Delhi",28.5513,77.2523,Delhi
+073,Apex 073,Available,"Golf Links, Delhi",28.603,77.2254,Delhi
+074,Apex 074,In Transit,"Hauz Khas, Delhi",28.5458,77.1892,Delhi
+075,Lifeline 075,In Transit,"Saket, Delhi",28.5268,77.2186,Delhi
+076,Rapid 076,In Transit,"Panchsheel Park, Delhi",28.5471,77.2255,Delhi
+077,Lifeline 077,In Transit,"Jor Bagh, Delhi",28.5823,77.218,Delhi
+078,Care 078,Available,"Saket, Delhi",28.5254,77.2145,Delhi
+079,Rapid 079,In Transit,"Greater Kailash, Delhi",28.5499,77.2485,Delhi
+080,Lifeline 080,In Transit,"Vasant Kunj, Delhi",28.5346,77.1488,Delhi
+081,Rescue 081,In Transit,"Jor Bagh, Delhi",28.5859,77.2129,Delhi
+082,Rescue 082,In Transit,"Jor Bagh, Delhi",28.5875,77.2202,Delhi
+083,Rescue 083,In Transit,"Sunder Nagar, Delhi",28.6007,77.2348,Delhi
+084,Apex 084,Available,"Defence Colony, Delhi",28.5685,77.2306,Delhi
+085,Medi 085,Available,"Shanti Niketan, Delhi",28.5831,77.1678,Delhi
+086,Swift 086,Available,"Sunder Nagar, Delhi",28.5985,77.2283,Delhi
+087,Rapid 087,In Transit,"Hauz Khas, Delhi",28.5516,77.1908,Delhi
+088,Apex 088,Available,"Sunder Nagar, Delhi",28.6021,77.2307,Delhi
+089,Rapid 089,In Transit,"Saket, Delhi",28.5263,77.2109,Delhi
+090,Care 090,Available,"Panchsheel Park, Delhi",28.5424,77.2203,Delhi
+091,Medi 091,In Transit,"Saket, Delhi",28.5256,77.2139,Delhi
+092,Lifeline 092,In Transit,"Panchsheel Park, Delhi",28.5495,77.2278,Delhi
+093,Swift 093,Available,"Shanti Niketan, Delhi",28.5845,77.1685,Delhi
+094,Swift 094,In Transit,"Panchsheel Park, Delhi",28.5452,77.2291,Delhi
+095,Apex 095,Available,"Vasant Kunj, Delhi",28.5326,77.1486,Delhi
+096,Medi 096,In Transit,"Shanti Niketan, Delhi",28.5856,77.1723,Delhi
+097,Lifeline 097,In Transit,"Hauz Khas, Delhi",28.5476,77.1922,Delhi
+098,Apex 098,In Transit,"Greater Kailash, Delhi",28.5485,77.2547,Delhi
+099,Lifeline 099,In Transit,"Hauz Khas, Delhi",28.5509,77.1924,Delhi
+100,Apex 100,Available,"Golf Links, Delhi",28.5967,77.2265,Delhi
+101,Care 101,In Transit,"Bellandur, Bangalore",12.933,77.6823,Bangalore
+102,Care 102,In Transit,"Bellandur, Bangalore",12.9365,77.6801,Bangalore
+103,Lifeline 103,In Transit,"Malleswaram, Bangalore",13.0033,77.564,Bangalore
+104,Swift 104,Available,"HSR Layout, Bangalore",12.9153,77.6351,Bangalore
+105,Rapid 105,In Transit,"Electronic City, Bangalore",12.8401,77.6633,Bangalore
+106,Care 106,Available,"Sarjapur Road, Bangalore",12.9277,77.6753,Bangalore
+107,Care 107,Available,"Indiranagar, Bangalore",12.9737,77.6387,Bangalore
+108,Rapid 108,Available,"Banashankari, Bangalore",12.9249,77.5485,Bangalore
+109,Apex 109,Available,"Indiranagar, Bangalore",12.9731,77.64,Bangalore
+110,Swift 110,In Transit,"Rajajinagar, Bangalore",12.9921,77.545,Bangalore
+111,Medi 111,In Transit,"Whitefield, Bangalore",12.9717,77.7483,Bangalore
+112,Medi 112,Available,"Koramangala, Bangalore",12.9326,77.6232,Bangalore
+113,Lifeline 113,In Transit,"Sadashivanagar, Bangalore",13.0038,77.5798,Bangalore
+114,Rapid 114,In Transit,"Jayanagar, Bangalore",12.9257,77.5799,Bangalore
+115,Swift 115,In Transit,"Sadashivanagar, Bangalore",13.0052,77.5784,Bangalore
+116,Apex 116,Available,"Koramangala, Bangalore",12.9382,77.6225,Bangalore
+117,Rapid 117,Available,"Whitefield, Bangalore",12.9692,77.7509,Bangalore
+118,Rapid 118,In Transit,"Sadashivanagar, Bangalore",13.0083,77.5733,Bangalore
+119,Care 119,Available,"Indiranagar, Bangalore",12.9702,77.6453,Bangalore
+120,Rapid 120,In Transit,"Electronic City, Bangalore",12.8449,77.6653,Bangalore
+121,Medi 121,Available,"Whitefield, Bangalore",12.965,77.7521,Bangalore
+122,Rescue 122,In Transit,"Banashankari, Bangalore",12.9305,77.5425,Bangalore
+123,Lifeline 123,In Transit,"Banashankari, Bangalore",12.9263,77.5462,Bangalore
+124,Lifeline 124,Available,"Indiranagar, Bangalore",12.9743,77.6418,Bangalore
+125,Lifeline 125,Available,"Whitefield, Bangalore",12.9651,77.7508,Bangalore
+126,Medi 126,In Transit,"Malleswaram, Bangalore",13.0058,77.564,Bangalore
+127,Apex 127,In Transit,"Electronic City, Bangalore",12.8356,77.6601,Bangalore
+128,Lifeline 128,Available,"Whitefield, Bangalore",12.9694,77.7478,Bangalore
+129,Lifeline 129,Available,"Sadashivanagar, Bangalore",13.0091,77.5784,Bangalore
+130,Rescue 130,Available,"Jayanagar, Bangalore",12.9288,77.5889,Bangalore
+131,Medi 131,Available,"Whitefield, Bangalore",12.97,77.7551,Bangalore
+132,Rescue 132,In Transit,"Whitefield, Bangalore",12.9737,77.7463,Bangalore
+133,Swift 133,Available,"Jayanagar, Bangalore",12.9322,77.5856,Bangalore
+134,Care 134,In Transit,"Jayanagar, Bangalore",12.9274,77.5809,Bangalore
+135,Swift 135,In Transit,"Bellandur, Bangalore",12.9369,77.6741,Bangalore
+136,Apex 136,In Transit,"Sadashivanagar, Bangalore",13.0078,77.5714,Bangalore
+137,Rescue 137,Available,"Rajajinagar, Bangalore",12.9895,77.5544,Bangalore
+138,Rapid 138,Available,"Rajajinagar, Bangalore",12.9881,77.5543,Bangalore
+139,Lifeline 139,In Transit,"Jayanagar, Bangalore",12.927,77.583,Bangalore
+140,Rapid 140,Available,"Sadashivanagar, Bangalore",13.0122,77.5736,Bangalore
+141,Rescue 141,Available,"Electronic City, Bangalore",12.8388,77.6661,Bangalore
+142,Swift 142,Available,"Banashankari, Bangalore",12.9292,77.5419,Bangalore
+143,Rapid 143,Available,"Sarjapur Road, Bangalore",12.9196,77.6703,Bangalore
+144,Rapid 144,Available,"Malleswaram, Bangalore",13.0048,77.5713,Bangalore
+145,Care 145,Available,"Sadashivanagar, Bangalore",13.0116,77.5726,Bangalore
+146,Rapid 146,In Transit,"Jayanagar, Bangalore",12.925,77.5849,Bangalore
+147,Medi 147,In Transit,"Sarjapur Road, Bangalore",12.9283,77.6762,Bangalore
+148,Apex 148,Available,"HSR Layout, Bangalore",12.914,77.6359,Bangalore
+149,Lifeline 149,Available,"Rajajinagar, Bangalore",12.9921,77.5489,Bangalore
+150,Rescue 150,Available,"Banashankari, Bangalore",12.9291,77.5446,Bangalore
+151,Swift 151,Available,"Gachibowli, Hyderabad",17.4408,78.3522,Hyderabad
+152,Lifeline 152,Available,"Financial District, Hyderabad",17.4123,78.3176,Hyderabad
+153,Lifeline 153,Available,"Manikonda, Hyderabad",17.4095,78.384,Hyderabad
+154,Rescue 154,Available,"KBR Park Road Area, Hyderabad",17.4242,78.4306,Hyderabad
+155,Rapid 155,Available,"Madhapur, Hyderabad",17.4492,78.3903,Hyderabad
+156,Swift 156,Available,"KothaGuda, Hyderabad",17.459,78.3786,Hyderabad
+157,Apex 157,Available,"KBR Park Road Area, Hyderabad",17.4223,78.4321,Hyderabad
+158,Care 158,In Transit,"Financial District, Hyderabad",17.4179,78.3107,Hyderabad
+159,Apex 159,Available,"Financial District, Hyderabad",17.411,78.3152,Hyderabad
+160,Rescue 160,In Transit,"Kondapur, Hyderabad",17.4622,78.375,Hyderabad
+161,Apex 161,Available,"KothaGuda, Hyderabad",17.4568,78.3789,Hyderabad
+162,Swift 162,In Transit,"Manikonda, Hyderabad",17.4121,78.3829,Hyderabad
+163,Care 163,In Transit,"Hitech City, Hyderabad",17.4468,78.3702,Hyderabad
+164,Rapid 164,In Transit,"Kondapur, Hyderabad",17.4635,78.3675,Hyderabad
+165,Lifeline 165,Available,"Begumpet, Hyderabad",17.4364,78.4752,Hyderabad
+166,Apex 166,In Transit,"KBR Park Road Area, Hyderabad",17.4201,78.4351,Hyderabad
+167,Rapid 167,In Transit,"Jubilee Hills, Hyderabad",17.4376,78.4038,Hyderabad
+168,Care 168,Available,"Financial District, Hyderabad",17.4152,78.311,Hyderabad
+169,Rescue 169,Available,"Kondapur, Hyderabad",17.457,78.3739,Hyderabad
+170,Rapid 170,Available,"KBR Park Road Area, Hyderabad",17.416,78.4396,Hyderabad
+171,Apex 171,In Transit,"KothaGuda, Hyderabad",17.4607,78.385,Hyderabad
+172,Apex 172,In Transit,"Banjara Hills, Hyderabad",17.4151,78.4366,Hyderabad
+173,Rescue 173,In Transit,"Madhapur, Hyderabad",17.4478,78.391,Hyderabad
+174,Lifeline 174,Available,"Manikonda, Hyderabad",17.4139,78.3846,Hyderabad
+175,Swift 175,In Transit,"Banjara Hills, Hyderabad",17.4132,78.4333,Hyderabad
+176,Care 176,Available,"Banjara Hills, Hyderabad",17.4154,78.4333,Hyderabad
+177,Rapid 177,Available,"Financial District, Hyderabad",17.4117,78.3131,Hyderabad
+178,Rapid 178,In Transit,"Banjara Hills, Hyderabad",17.4106,78.4344,Hyderabad
+179,Medi 179,In Transit,"Gachibowli, Hyderabad",17.4413,78.3481,Hyderabad
+180,Apex 180,Available,"Manikonda, Hyderabad",17.4134,78.3821,Hyderabad
+181,Apex 181,In Transit,"Kondapur, Hyderabad",17.4555,78.3664,Hyderabad
+182,Care 182,In Transit,"Kondapur, Hyderabad",17.4551,78.3713,Hyderabad
+183,Apex 183,In Transit,"KothaGuda, Hyderabad",17.4586,78.3834,Hyderabad
+184,Rapid 184,In Transit,"KBR Park Road Area, Hyderabad",17.4213,78.4313,Hyderabad
+185,Apex 185,In Transit,"Begumpet, Hyderabad",17.4365,78.4741,Hyderabad
+186,Lifeline 186,In Transit,"Jubilee Hills, Hyderabad",17.4325,78.4091,Hyderabad
+187,Swift 187,Available,"Kondapur, Hyderabad",17.4576,78.3741,Hyderabad
+188,Medi 188,Available,"Begumpet, Hyderabad",17.435,78.472,Hyderabad
+189,Lifeline 189,Available,"Jubilee Hills, Hyderabad",17.4343,78.4072,Hyderabad
+190,Care 190,In Transit,"Jubilee Hills, Hyderabad",17.437,78.4057,Hyderabad
+191,Lifeline 191,Available,"Manikonda, Hyderabad",17.4089,78.3857,Hyderabad
+192,Care 192,Available,"Jubilee Hills, Hyderabad",17.4319,78.4048,Hyderabad
+193,Medi 193,Available,"KBR Park Road Area, Hyderabad",17.4233,78.43,Hyderabad
+194,Apex 194,Available,"Madhapur, Hyderabad",17.4558,78.3868,Hyderabad
+195,Swift 195,In Transit,"Madhapur, Hyderabad",17.4548,78.3897,Hyderabad
+196,Care 196,In Transit,"Gachibowli, Hyderabad",17.4439,78.3471,Hyderabad
+197,Lifeline 197,Available,"Gachibowli, Hyderabad",17.4478,78.3514,Hyderabad
+198,Lifeline 198,In Transit,"Madhapur, Hyderabad",17.4518,78.3866,Hyderabad
+199,Care 199,Available,"Madhapur, Hyderabad",17.4508,78.3928,Hyderabad
+200,Rapid 200,In Transit,"Manikonda, Hyderabad",17.4101,78.3881,Hyderabad
+201,Care 201,Available,"Ballygunge, Kolkata",22.515,88.365,Kolkata
+202,Lifeline 202,Available,"New Town, Kolkata",22.5722,88.4791,Kolkata
+203,Care 203,In Transit,"Jodhpur Park, Kolkata",22.4956,88.378,Kolkata
+204,Lifeline 204,Available,"New Town, Kolkata",22.5683,88.482,Kolkata
+205,Lifeline 205,Available,"Queens Park, Kolkata",22.5129,88.3626,Kolkata
+206,Swift 206,In Transit,"Salt Lake City, Kolkata",22.57,88.4245,Kolkata
+207,Swift 207,In Transit,"Lake Gardens, Kolkata",22.4977,88.356,Kolkata
+208,Care 208,In Transit,"Loudon Street, Kolkata",22.5458,88.3477,Kolkata
+209,Rapid 209,Available,"Queens Park, Kolkata",22.5069,88.3668,Kolkata
+210,Lifeline 210,Available,"Loudon Street, Kolkata",22.5464,88.3475,Kolkata
+211,Apex 211,In Transit,"Ballygunge, Kolkata",22.5215,88.3572,Kolkata
+212,Swift 212,Available,"Salt Lake City, Kolkata",22.5689,88.4244,Kolkata
+213,Care 213,Available,"Park Street, Kolkata",22.5484,88.3543,Kolkata
+214,Lifeline 214,In Transit,"Bhowanipore, Kolkata",22.5244,88.344,Kolkata
+215,Care 215,In Transit,"Park Street, Kolkata",22.5547,88.3473,Kolkata
+216,Rescue 216,In Transit,"Gariahat, Kolkata",22.5031,88.3678,Kolkata
+217,Apex 217,Available,"Park Street, Kolkata",22.554,88.348,Kolkata
+218,Lifeline 218,In Transit,"Loudon Street, Kolkata",22.5476,88.3547,Kolkata
+219,Rapid 219,Available,"Jodhpur Park, Kolkata",22.493,88.3797,Kolkata
+220,Rescue 220,Available,"Loudon Street, Kolkata",22.5512,88.3549,Kolkata
+221,Medi 221,Available,"Howrah, Kolkata",22.5777,88.3208,Kolkata
+222,Swift 222,In Transit,"Bhowanipore, Kolkata",22.5314,88.3408,Kolkata
+223,Rapid 223,In Transit,"Bhowanipore, Kolkata",22.527,88.3412,Kolkata
+224,Lifeline 224,Available,"Lake Gardens, Kolkata",22.5003,88.3581,Kolkata
+225,Care 225,Available,"Gariahat, Kolkata",22.5036,88.3669,Kolkata
+226,Rescue 226,Available,"Alipore, Kolkata",22.5139,88.3315,Kolkata
+227,Lifeline 227,In Transit,"Queens Park, Kolkata",22.5088,88.3645,Kolkata
+228,Lifeline 228,Available,"Gariahat, Kolkata",22.4959,88.363,Kolkata
+229,Care 229,In Transit,"Alipore, Kolkata",22.517,88.3306,Kolkata
+230,Apex 230,Available,"Loudon Street, Kolkata",22.5518,88.3485,Kolkata
+231,Care 231,Available,"Alipore, Kolkata",22.5154,88.3333,Kolkata
+232,Rescue 232,In Transit,"Alipore, Kolkata",22.5131,88.3343,Kolkata
+233,Medi 233,Available,"Lake Gardens, Kolkata",22.5007,88.3634,Kolkata
+234,Apex 234,In Transit,"Park Street, Kolkata",22.5509,88.3501,Kolkata
+235,Rescue 235,In Transit,"Alipore, Kolkata",22.5198,88.3299,Kolkata
+236,Care 236,Available,"Howrah, Kolkata",22.5821,88.3222,Kolkata
+237,Care 237,Available,"Howrah, Kolkata",22.5784,88.3174,Kolkata
+238,Apex 238,In Transit,"Park Street, Kolkata",22.5574,88.348,Kolkata
+239,Rapid 239,In Transit,"Lake Gardens, Kolkata",22.5043,88.3563,Kolkata
+240,Rescue 240,Available,"Park Street, Kolkata",22.5569,88.3503,Kolkata
+241,Lifeline 241,In Transit,"Jodhpur Park, Kolkata",22.4918,88.3722,Kolkata
+242,Rapid 242,In Transit,"Howrah, Kolkata",22.5838,88.3217,Kolkata
+243,Lifeline 243,In Transit,"Jodhpur Park, Kolkata",22.4941,88.3755,Kolkata
+244,Care 244,Available,"Queens Park, Kolkata",22.513,88.3677,Kolkata
+245,Rescue 245,In Transit,"Jodhpur Park, Kolkata",22.4958,88.3719,Kolkata
+246,Medi 246,In Transit,"Jodhpur Park, Kolkata",22.4922,88.3773,Kolkata
+247,Lifeline 247,Available,"Gariahat, Kolkata",22.5007,88.3654,Kolkata
+248,Swift 248,In Transit,"Alipore, Kolkata",22.5218,88.3298,Kolkata
+249,Care 249,In Transit,"Jodhpur Park, Kolkata",22.4974,88.3703,Kolkata
+250,Apex 250,In Transit,"Loudon Street, Kolkata",22.5449,88.3532,Kolkata

@@ -1,0 +1,39 @@
+# --- Core API & Server ---
+fastapi
+uvicorn
+python-dotenv
+httpx
+requests
+websockets
+pydantic
+
+# --- Voice & Telephony ---
+twilio
+deepgram-sdk
+ffmpeg-python
+
+# --- LLM Provider ---
+google-genai
+langchain-google-genai
+
+# --- LangChain Ecosystem (v0.3) ---
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchainhub
+langgraph
+
+# --- Vector Stores & Embeddings ---
+langchain-chroma
+chromadb
+langchain-pinecone
+pinecone-client
+langchain-huggingface
+sentence-transformers
+
+# --- RAG Tools & Parsing ---
+flashrank
+rank-bm25
+pymupdf
+geopy

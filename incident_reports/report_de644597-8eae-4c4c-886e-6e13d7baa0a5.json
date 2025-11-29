@@ -1,0 +1,10 @@
+{
+    "caller_name": "John",
+    "emergency_type": "traffic_accident",
+    "location": "Bandra, Mumbai, Maharashtra",
+    "number_of_people_involved": 1,
+    "age_group": "adult",
+    "immediate_dangers": "Unconscious",
+    "medical_conditions": "N/A",
+    "description": "there is an accident, patient is possibly unconscious"
+}

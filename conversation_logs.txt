@@ -1,0 +1,76 @@
+[2025-11-29 10:39:41] User: yeah i just saw man who is fainted on the road and he's running on another the road he's not giving any response
+[2025-11-29 10:39:49] AI: State the exact address, including city.
+[2025-11-29 10:41:32] User: jk college road guntur
+[2025-11-29 10:41:36] AI: What type of emergency is this?
+[2025-11-29 10:41:48] User: i need an ambulance here there is a mass casualty
+[2025-11-29 10:41:51] AI: Caller's name?
+[2025-11-29 10:41:59] User: oh it's prameth
+[2025-11-29 10:42:04] AI: Approximate age of the patient?
+[2025-11-29 10:42:12] User: forty five
+[2025-11-29 10:42:15] AI: Approximate age of the patient? Dispatching units now.
+[2025-11-29 10:45:14] User: near new delhi parliament
+[2025-11-29 10:45:18] AI: State the exact address, including city.
+[2025-11-29 10:45:27] User: the parliament new delhi
+[2025-11-29 10:45:31] AI: State the exact address, including city.
+[2025-11-29 10:45:42] User: parliament need
+[2025-11-29 10:45:45] AI: What is the nature of your emergency?
+[2025-11-29 10:45:54] User: what you need i need an ambulance for
+[2025-11-29 10:45:58] AI: Who is calling?
+[2025-11-29 10:46:03] User: this is charlie
+[2025-11-29 10:46:07] AI: Approximate age of the patient?
+[2025-11-29 10:46:13] User: oh it
+[2025-11-29 10:46:15] User: i think it's around twenty
+[2025-11-29 10:46:19] AI: Is the patient conscious and breathing?
+[2025-11-29 10:46:28] User: no
+[2025-11-29 10:46:31] User: he's not conscious i think that a pulse is also dead
+[2025-11-29 11:09:01] User: i saw an accident near me what should i do know
+[2025-11-29 11:09:06] AI: State the exact address, including city.
+[2025-11-29 11:09:17] User: this is
+[2025-11-29 11:09:19] User: tan mumbai
+[2025-11-29 11:09:23] AI: State the exact address, including city.
+[2025-11-29 11:09:33] User: pane mumbai
+[2025-11-29 11:09:37] AI: State the exact address, including city.
+[2025-11-29 11:10:01] User: mumbai
+[2025-11-29 11:10:04] AI: State the exact address, including city.
+[2025-11-29 11:10:18] User: bye
+[2025-11-29 11:10:20] User: ba
+[2025-11-29 11:10:23] AI: State the exact address, including city.
+[2025-11-29 11:10:43] User: stopped
+[2025-11-29 11:10:48] AI: State the exact address, including city.
+[2025-11-29 11:10:58] User: new eve new york
+[2025-11-29 11:11:03] User: hubspot
+[2025-11-29 11:11:07] AI: State the exact address, including city.
+[2025-11-29 11:11:21] User: seven new york usa
+[2025-11-29 11:11:24] AI: Caller's name?
+[2025-11-29 11:11:31] User: jordan
+[2025-11-29 11:11:36] AI: Approximate age of the patient?
+[2025-11-29 11:11:42] User: fifteen
+[2025-11-29 11:11:46] AI: Is the patient conscious and breathing?
+[2025-11-29 11:11:58] User: yeah he is conscious but we need the emergency service right no
+[2025-11-29 11:12:01] AI: Is the patient conscious and breathing?
+[2025-11-29 11:12:09] User: yes
+[2025-11-29 11:12:13] AI: Is the patient conscious and breathing?
+[2025-11-29 11:12:22] User: no he's not conscious
+[2025-11-29 11:12:25] AI: Is the patient conscious and breathing? Dispatching units now.
+[2025-11-29 11:14:18] User: there is an accident on the road
+[2025-11-29 11:14:22] AI: State the exact address, including city.
+[2025-11-29 11:14:27] User: hello
+[2025-11-29 11:14:30] AI: State the exact address, including city.
+[2025-11-29 11:14:40] User: it's a bang drum
+[2025-11-29 11:14:43] AI: State the exact address, including city.
+[2025-11-29 11:14:53] User: it's
+[2025-11-29 11:14:54] User: mumbai
+[2025-11-29 11:14:58] AI: Caller, what is your name?
+[2025-11-29 11:15:07] User: it's
+[2025-11-29 11:15:10] AI: State the exact address, including city.
+[2025-11-29 11:15:44] User: it's mumbai
+[2025-11-29 11:15:48] AI: State the exact address, including city.
+[2025-11-29 11:15:56] User: yes
+[2025-11-29 11:15:59] User: it's band
+[2025-11-29 11:16:02] AI: State the exact address, including city.
+[2025-11-29 11:16:05] User: thank
+[2025-11-29 11:16:09] AI: State the exact address, including city.
+[2025-11-29 11:16:13] User: newly york boy adams
+[2025-11-29 11:16:16] AI: State the exact address, including city.
+[2025-11-29 11:16:24] User: i will cut the calling
+[2025-11-29 11:16:27] AI: State the exact address, including city.
