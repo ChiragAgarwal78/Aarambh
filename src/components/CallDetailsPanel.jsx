@@ -50,8 +50,8 @@ const CallDetailsPanel = ({ data, isEditing, onChange }) => {
             height: '100%',
             boxSizing: 'border-box'
         }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px', borderBottom: '1px solid #333', paddingBottom: '12px' }}>
-                <h3 style={{ margin: 0, fontSize: '16px', fontWeight: '600', color: '#fff' }}>Caller Details</h3>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px', borderBottom: '1px solid #333', paddingBottom: '12px', flexWrap: 'wrap', gap: '10px' }}>
+                <h3 style={{ margin: 0, fontSize: '16px', fontWeight: '600', color: '#fff', whiteSpace: 'nowrap' }}>Caller Details</h3>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                     <div style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: getStatusColor(callStatus), boxShadow: `0 0 8px ${getStatusColor(callStatus)}` }}></div>
                     <select
@@ -65,7 +65,8 @@ const CallDetailsPanel = ({ data, isEditing, onChange }) => {
                             padding: '4px 8px',
                             fontSize: '12px',
                             outline: 'none',
-                            cursor: 'pointer'
+                            cursor: 'pointer',
+                            minWidth: '100px'
                         }}
                     >
                         <option value="connected">Connected</option>

@@ -253,6 +253,8 @@ const DispatcherDashboard = ({ onNavigate, sharedData }) => {
             </style>
 
             {/* Header */}
+            {/* Header */}
+            {/* Header */}
             <header style={{
                 backgroundColor: '#1e1e1e',
                 color: 'white',
@@ -261,8 +263,8 @@ const DispatcherDashboard = ({ onNavigate, sharedData }) => {
                 justifyContent: 'space-between',
                 alignItems: 'center',
                 boxShadow: '0 2px 4px rgba(0,0,0,0.3)',
-                zIndex: 100,
-                borderBottom: '1px solid #333'
+                borderBottom: '1px solid #333',
+                flexShrink: 0 // Prevent header from shrinking
             }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
                     <div>

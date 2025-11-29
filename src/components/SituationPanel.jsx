@@ -1,28 +1,29 @@
 import React, { useState } from 'react';
 
-const VitalBadge = ({ label, isActive, onClick, isEditing, activeColor = '#cf6679' }) => (
+const VitalBadge = ({ label, isActive, onClick, isEditing, activeColor = '#d32f2f' }) => (
     <div
         onClick={() => isEditing && onClick()}
         style={{
             display: 'inline-flex',
             alignItems: 'center',
-            padding: '8px 16px',
-            borderRadius: '6px',
+            justifyContent: 'center',
+            padding: '10px 20px',
+            borderRadius: '8px',
             backgroundColor: isActive ? activeColor : '#2c2c2c',
             color: isActive ? '#fff' : '#aaa',
-            fontSize: '13px',
+            fontSize: '14px',
             fontWeight: '600',
             marginRight: '10px',
             marginBottom: '10px',
             cursor: isEditing ? 'pointer' : 'default',
-            border: isEditing ? (isActive ? `1px solid #ff8a80` : `1px solid #555`) : '1px solid transparent',
-            opacity: isActive ? 1 : 0.8,
+            border: isEditing ? (isActive ? `1px solid ${activeColor}` : `1px solid #555`) : '1px solid transparent',
+            opacity: isActive ? 1 : 0.7,
             transition: 'all 0.2s',
-            userSelect: 'none'
+            userSelect: 'none',
+            boxShadow: isActive ? '0 2px 8px rgba(211, 47, 47, 0.4)' : 'none'
         }}
     >
         {label}
-        {isActive && <span style={{ marginLeft: '8px', fontWeight: 'bold' }}>!</span>}
     </div>
 );
 
